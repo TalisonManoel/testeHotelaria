@@ -1,0 +1,2 @@
+# testeHotelaria
+teste de CodeQl
